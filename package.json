@@ -1,0 +1,16 @@
+{
+  "name": "language-krl",
+  "version": "0.0.1",
+  "description": "A krl language grammar package",
+  "repository": "https://github.com/kitsune7/language-krl",
+  "keywords": [
+    "syntax",
+    "highlighting",
+    "grammar"
+  ],
+  "license": "MIT",
+  "bugs": "https://github.com/kitsune7/language-krl/issues",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
