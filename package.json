@@ -1,6 +1,6 @@
 {
   "name": "language-krl",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A krl language grammar package",
   "repository": "https://github.com/kitsune7/language-krl",
   "keywords": [
