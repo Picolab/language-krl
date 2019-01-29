@@ -5,9 +5,7 @@ language-krl
 
 ## Installation
 
-Use [Package Control][3].
-
-If you want to install it manually, copy `KRL.tmLanguage` to your `Packages/User` directory.
+Install with `apm install language-krl` or add it within Atom by going to `edit > preferences > install` and clicking the install button for the `language-krl` package.
 
 ## Contributing 
 
@@ -15,10 +13,9 @@ Feel free to submit a pull request.
 
 ## Acknowledgements
 
-* Thanks fo [Phil Windley][4] for providing the grammar for KRL.
+* Thanks fo [Phil Windley][3] for providing the grammar for KRL.
 
 
 [1]: http://developer.kynetx.com/
 [2]: http://en.wikipedia.org/wiki/Kinetic_Rule_Language
-[3]: https://atom.io/packages
-[4]: http://www.windley.com/
+[3]: http://www.windley.com/
