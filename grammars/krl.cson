@@ -305,7 +305,7 @@ repository:
         name: 'html.krl'
         begin: '<<'
         patterns: [
-          { include: text.html.basic }
+          { include: 'text.html.basic' }
           {
             name: 'string.beesting.krl'
             match: '#{[^{^}]*}'
@@ -322,7 +322,7 @@ repository:
         name: 'source.js'
         begin: '<\\|'
         patterns: [
-          { include: source.js }
+          { include: 'source.js' }
         ]
         end: '\\|>'
       }
