@@ -1,7 +1,7 @@
 {
-  "name": "language-krl",
+  "name": "language-kinetic-rule-lang",
   "version": "0.0.0",
-  "description": "A krl language grammar package",
+  "description": "KRL (Kinetic Rule Language) language support for Atom",
   "repository": "https://github.com/kitsune7/language-krl",
   "keywords": [
     "syntax",

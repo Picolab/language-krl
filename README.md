@@ -5,7 +5,7 @@ language-krl
 
 ## Installation
 
-Install with `apm install language-krl` or add it within Atom by going to `edit > preferences > install` and clicking the install button for the `language-krl` package.
+Install with `apm install language-kinetic-rule-lang` or add it within Atom by going to `edit > preferences > install` and clicking the install button for the `language-kinetic-rule-lang` package.
 
 ## Contributing 
 
